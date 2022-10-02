@@ -1,6 +1,6 @@
 import random
 random_Number= random.randint(0,100)
-num_utilisateur = int(input('Donner un nombre'))
+num_utilisateur = int(input('Donner un nombre    '))
 nb_essai = 0
 print(random_Number)
 if(num_utilisateur == random_Number):
